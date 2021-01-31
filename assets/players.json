@@ -1,0 +1,505 @@
+{
+  "count": 100,
+  "results": [
+    {
+      "name": "LeBron James",
+      "team": "Lakers",
+      "price": 1000
+    },
+    {
+      "name": "Anthony Davis",
+      "team": "Lakers",
+      "price": 900
+    },
+    {
+      "name": "Alex Caruso",
+      "team": "Lakers",
+      "price": 600
+    },
+    {
+      "name": "Marc Gasol",
+      "team": "Lakers",
+      "price": 750
+    },
+    {
+      "name": "Kyle Kuzma",
+      "team": "Lakers",
+      "price": 600
+    },
+    {
+      "name": "Stephen Curry",
+      "team": "Warriors",
+      "price": 900
+    },
+    {
+      "name": "Draymond Green",
+      "team": "Warriors",
+      "price": 750
+    },
+    {
+      "name": "Klay Thompson",
+      "team": "Warriors",
+      "price": 700
+    },
+    {
+      "name": "Kevin Durant",
+      "team": "Nets",
+      "price": 950
+    },
+    {
+      "name": "James Harden",
+      "team": "Nets",
+      "price": 900
+    },
+    {
+      "name": "Kyrie Irving",
+      "team": "Nets",
+      "price": 900
+    },
+    {
+      "name": "DeAndre Jordan",
+      "team": "Nets",
+      "price": 600
+    },
+    {
+      "name": "Kawhi Leonard",
+      "team": "Clippers",
+      "price": 950
+    },
+    {
+      "name": "Patrick Beverley",
+      "team": "Clippers",
+      "price": 600
+    },
+    {
+      "name": "Paul George",
+      "team": "Clippers",
+      "price": 750
+    },
+    {
+      "name": "Serge Ibaka",
+      "team": "Clippers",
+      "price": 700
+    },
+    {
+      "name": "Lou Williams",
+      "team": "Clippers",
+      "price": 700
+    },
+    {
+      "name": "Devin Booker",
+      "team": "Suns",
+      "price": 750
+    },
+    {
+      "name": "Jae Crowder",
+      "team": "Suns",
+      "price": 400
+    },
+    {
+      "name": "Chris Paul",
+      "team": "Suns",
+      "price": 750
+    },
+    {
+      "name": "Harrison Barnes",
+      "team": "Kings",
+      "price": 500
+    },
+    {
+      "name": "De'Aaron Fox",
+      "team": "Kings",
+      "price": 550
+    },
+    {
+      "name": "Buddy Hield",
+      "team": "Kings",
+      "price": 550
+    },
+    {
+      "name": "Tacko Fall",
+      "team": "Celtics",
+      "price": 550
+    },
+    {
+      "name": "Jayson Tatum",
+      "team": "Celtics",
+      "price": 800
+    },
+    {
+      "name": "Kemba Walker",
+      "team": "Celtics",
+      "price": 750
+    },
+    {
+      "name": "Marcus Smart",
+      "team": "Celtics",
+      "price": 700
+    },
+    {
+      "name": "RJ Barrett",
+      "team": "Knicks",
+      "price": 700
+    },
+    {
+      "name": "Taj Gibson",
+      "team": "Knicks",
+      "price": 600
+    },
+    {
+      "name": "Julius Randle",
+      "team": "Knicks",
+      "price": 650
+    },
+    {
+      "name": "Joel Embiid",
+      "team": "76ers",
+      "price": 800
+    },
+    {
+      "name": "Dwight Howard",
+      "team": "76ers",
+      "price": 650
+    },
+    {
+      "name": "Ben Simmons",
+      "team": "76ers",
+      "price": 800
+    },
+    {
+      "name": "Kyle Lowry",
+      "team": "Raptors",
+      "price": 750
+    },
+    {
+      "name": "Pascal Siakam",
+      "team": "Raptors",
+      "price": 700
+    },
+    {
+      "name": "Fred VanVleet",
+      "team": "Raptors",
+      "price": 650
+    },
+    {
+      "name": "Zach LaVine",
+      "team": "Chicago",
+      "price": 700
+    },
+    {
+      "name": "Otto Porter",
+      "team": "Chicago",
+      "price": 600
+    },
+    {
+      "name": "Thaddeus Young",
+      "team": "Chicago",
+      "price": 500
+    },
+    {
+      "name": "Andre Drummond",
+      "team": "Cleveland",
+      "price": 500
+    },
+    {
+      "name": "Kevin Love",
+      "team": "Cleveland",
+      "price": 650
+    },
+    {
+      "name": "Collin Sexton",
+      "team": "Cleveland",
+      "price": 700
+    },
+    {
+      "name": "Blake Griffin",
+      "team": "Pistons",
+      "price": 600
+    },
+    {
+      "name": "Derrick Rose",
+      "team": "Pistons",
+      "price": 750
+    },
+    {
+      "name": "Jerami Grant",
+      "team": "Pistons",
+      "price": 600
+    },
+    {
+      "name": "T.J. Warren",
+      "team": "Pacers",
+      "price": 400
+    },
+    {
+      "name": "Malcolm Brogdon",
+      "team": "Pacers",
+      "price": 450
+    },
+    {
+      "name": "Myles Turner",
+      "team": "Pacers",
+      "price": 350
+    },
+    {
+      "name": "Giannis Antetokounmpo",
+      "team": "Bucks",
+      "price": 900
+    },
+    {
+      "name": "Jrue Holiday",
+      "team": "Bucks",
+      "price": 700
+    },
+    {
+      "name": "Khris Middleton",
+      "team": "Bucks",
+      "price": 650
+    },
+    {
+      "name": "Brook Lopez",
+      "team": "Bucks",
+      "price": 600
+    },
+    {
+      "name": "Luka Doncic",
+      "team": "Mavericks",
+      "price": 850
+    },
+    {
+      "name": "Tim Hardaway Jr.",
+      "team": "Mavericks",
+      "price": 600
+    },
+    {
+      "name": "Kristaps Porzingis",
+      "team": "Mavericks",
+      "price": 750
+    },
+    {
+      "name": "DeMarcus Cousins",
+      "team": "Rockets",
+      "price": 700
+    },
+    {
+      "name": "Victor Oladipo",
+      "team": "Rockets",
+      "price": 650
+    },
+    {
+      "name": "John Wall",
+      "team": "Rockets",
+      "price": 750
+    },
+    {
+      "name": "Ja Morant",
+      "team": "Grizzlies",
+      "price": 650
+    },
+    {
+      "name": "Kyle Anderson",
+      "team": "Grizzlies",
+      "price": 400
+    },
+    {
+      "name": "Dillon Brooks",
+      "team": "Grizzlies",
+      "price": 350
+    },
+    {
+      "name": "Lonzo Ball",
+      "team": "Pelicans",
+      "price": 650
+    },
+    {
+      "name": "Zion Williamson",
+      "team": "Pelicans",
+      "price": 800
+    },
+    {
+      "name": "Brandon Ingram",
+      "team": "Pelicans",
+      "price": 650
+    },
+    {
+      "name": "LaMarcus Aldridge",
+      "team": "Spurs",
+      "price": 600
+    },
+    {
+      "name": "DeMar DeRozan",
+      "team": "Spurs",
+      "price": 800
+    },
+    {
+      "name": "Dejounte Murray",
+      "team": "Spurs",
+      "price": 600
+    },
+    {
+      "name": "Clint Capela",
+      "team": "Hawks",
+      "price": 600
+    },
+    {
+      "name": "Trae Young",
+      "team": "Hawks",
+      "price": 700
+    },
+    {
+      "name": "Danilo Gallinari",
+      "team": "Hawks",
+      "price": 600
+    },
+    {
+      "name": "LaMelo Ball",
+      "team": "Hornets",
+      "price": 650
+    },
+    {
+      "name": "Gordon Hayward",
+      "team": "Hornets",
+      "price": 600
+    },
+    {
+      "name": "Terry Rozier",
+      "team": "Hornets",
+      "price": 700
+    },
+    {
+      "name": "Bam Adebayo",
+      "team": "Heat",
+      "price": 650
+    },
+    {
+      "name": "Jimmy Butler",
+      "team": "Heat",
+      "price": 850
+    },
+    {
+      "name": "Tyler Herro",
+      "team": "Heat",
+      "price": 700
+    },
+    {
+      "name": "Andre Iguodala",
+      "team": "Heat",
+      "price": 650
+    },
+    {
+      "name": "Goran Dragic",
+      "team": "Heat",
+      "price": 650
+    },
+    {
+      "name": "Mo Bamba",
+      "team": "Magic",
+      "price": 550
+    },
+    {
+      "name": "Markelle Fultz",
+      "team": "Magic",
+      "price": 500
+    },
+    {
+      "name": "Al-Farouq Aminu",
+      "team": "Magic",
+      "price": 450
+    },
+    {
+      "name": "Bradley Beal",
+      "team": "Wizards",
+      "price": 550
+    },
+    {
+      "name": "Russell Westbrook",
+      "team": "Wizards",
+      "price": 750
+    },
+    {
+      "name": "Davis Bertans",
+      "team": "Wizards",
+      "price": 350
+    },
+    {
+      "name": "Facundo Campazzo",
+      "team": "Nuggets",
+      "price": 600
+    },
+    {
+      "name": "Nikola Jokic",
+      "team": "Nuggets",
+      "price": 750
+    },
+    {
+      "name": "Jamal Murray",
+      "team": "Nuggets",
+      "price": 800
+    },
+    {
+      "name": "Trevor Ariza",
+      "team": "Thunder",
+      "price": 500
+    },
+    {
+      "name": "George Hill",
+      "team": "Thunder",
+      "price": 500
+    },
+    {
+      "name": "Al Horford",
+      "team": "Thunder",
+      "price": 500
+    },
+    {
+      "name": "Malik Beasley",
+      "team": "Timberwolves",
+      "price": 550
+    },
+    {
+      "name": "Ricky Rubio",
+      "team": "Timberwolves",
+      "price": 650
+    },
+    {
+      "name": "D'Angelo Russell",
+      "team": "Timberwolves",
+      "price": 600
+    },
+    {
+      "name": "Karl-Anthony Towns",
+      "team": "Timberwolves",
+      "price": 650
+    },
+    {
+      "name": "Carmelo Anthony",
+      "team": "Blazers",
+      "price": 700
+    },
+    {
+      "name": "CJ McCollum",
+      "team": "Blazers",
+      "price": 750
+    },
+    {
+      "name": "Damian Lillard",
+      "team": "Blazers",
+      "price": 800
+    },
+    {
+      "name": "Jordan Clarkson",
+      "team": "Jazz",
+      "price": 550
+    },
+    {
+      "name": "Joe Ingles",
+      "team": "Jazz",
+      "price": 600
+    },
+    {
+      "name": "Donovan Mitchell",
+      "team": "Jazz",
+      "price": 750
+    }
+  ]
+}
