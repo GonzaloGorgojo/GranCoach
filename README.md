@@ -4,4 +4,4 @@
 
 ## Class Diagram
 
-![Class Diagram](https://github.com/GonzaloGorgojo/Pokedex/tree/main/doc/classdiagram.png "Class Diagram")
+![Class Diagram](https://github.com/GonzaloGorgojo/GranCoach/blob/main/doc/classdiagram.png "Class Diagram")
